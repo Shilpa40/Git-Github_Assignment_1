@@ -1,1 +1,2 @@
-.DS_Store 
+# Ignore files ended with .txt extension
+*.txt
